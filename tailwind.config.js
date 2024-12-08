@@ -8,7 +8,7 @@ export default {
   ],
   theme: {
     extend: {
-      // Thêm các cấu hình tùy chỉnh ở đây
+      
     },
   },
   plugins: [
